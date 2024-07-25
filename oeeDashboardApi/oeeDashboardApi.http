@@ -1,0 +1,6 @@
+@oeeDashboardApi_HostAddress = http://localhost:5213
+
+GET {{oeeDashboardApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

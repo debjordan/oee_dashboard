@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7pVLSQUaU7fcUCOcyJzdPbgifP7aOOnfRKjV3kWSJfE=",
+  "Source": "oeeDashboardApi",
+  "BasePath": "_content/oeeDashboardApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
