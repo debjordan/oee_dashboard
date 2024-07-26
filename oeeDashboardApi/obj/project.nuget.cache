@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NrsQI9DyaBQ=",
+  "dgSpecHash": "Alq+/M5AnDoLmQcl4/0BakuFY/yB82Dms77H2IUc4lnrGxKItSt+29I3SPtraqB3cdmLQPXen/35nl7Dq3Ko1Q==",
   "success": true,
   "projectFilePath": "/home/jordan/projects/oee-system-webapi/oeeDashboardApi/oeeDashboardApi.csproj",
   "expectedPackageFiles": [
@@ -57,7 +57,8 @@
     "/home/jordan/.nuget/packages/system.text.encoding.codepages/6.0.0/system.text.encoding.codepages.6.0.0.nupkg.sha512",
     "/home/jordan/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
     "/home/jordan/.nuget/packages/system.text.json/8.0.4/system.text.json.8.0.4.nupkg.sha512",
-    "/home/jordan/.nuget/packages/system.threading.channels/6.0.0/system.threading.channels.6.0.0.nupkg.sha512"
+    "/home/jordan/.nuget/packages/system.threading.channels/6.0.0/system.threading.channels.6.0.0.nupkg.sha512",
+    "/home/jordan/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
   ],
   "logs": []
 }

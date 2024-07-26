@@ -126,4 +126,5 @@
 /home/jordan/projects/oee-system-webapi/oeeDashboardApi/obj/Debug/net8.0/oeeDashboardApi.genruntimeconfig.cache
 /home/jordan/projects/oee-system-webapi/oeeDashboardApi/obj/Debug/net8.0/ref/oeeDashboardApi.dll
 /home/jordan/projects/oee-system-webapi/oeeDashboardApi/obj/Debug/net8.0/oeeDashboardApi.sourcelink.json
-/home/jordan/projects/oee-system-webapi/oeeDashboardApi/obj/Debug/net8.0/oeeDashb.4E537282.Up2Date
+/home/jordan/projects/oee-system-webapi/oeeDashboardApi/bin/Debug/net8.0/System.Text.Json.dll
+/home/jordan/projects/oee-system-webapi/oeeDashboardApi/obj/Debug/net8.0/oeeDashboardApi.csproj.CopyComplete
