@@ -40,7 +40,6 @@
 /home/jordan/projects/oee-system-webapi/oeeDashboardApi/bin/Debug/net8.0/System.Composition.Hosting.dll
 /home/jordan/projects/oee-system-webapi/oeeDashboardApi/bin/Debug/net8.0/System.Composition.Runtime.dll
 /home/jordan/projects/oee-system-webapi/oeeDashboardApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
-/home/jordan/projects/oee-system-webapi/oeeDashboardApi/bin/Debug/net8.0/System.Text.Json.dll
 /home/jordan/projects/oee-system-webapi/oeeDashboardApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
 /home/jordan/projects/oee-system-webapi/oeeDashboardApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
 /home/jordan/projects/oee-system-webapi/oeeDashboardApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
@@ -121,9 +120,10 @@
 /home/jordan/projects/oee-system-webapi/oeeDashboardApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.oeeDashboardApi.props
 /home/jordan/projects/oee-system-webapi/oeeDashboardApi/obj/Debug/net8.0/staticwebassets.pack.json
 /home/jordan/projects/oee-system-webapi/oeeDashboardApi/obj/Debug/net8.0/scopedcss/bundle/oeeDashboardApi.styles.css
-/home/jordan/projects/oee-system-webapi/oeeDashboardApi/obj/Debug/net8.0/oeeDashboardApi.csproj.CopyComplete
 /home/jordan/projects/oee-system-webapi/oeeDashboardApi/obj/Debug/net8.0/oeeDashboardApi.dll
 /home/jordan/projects/oee-system-webapi/oeeDashboardApi/obj/Debug/net8.0/refint/oeeDashboardApi.dll
 /home/jordan/projects/oee-system-webapi/oeeDashboardApi/obj/Debug/net8.0/oeeDashboardApi.pdb
 /home/jordan/projects/oee-system-webapi/oeeDashboardApi/obj/Debug/net8.0/oeeDashboardApi.genruntimeconfig.cache
 /home/jordan/projects/oee-system-webapi/oeeDashboardApi/obj/Debug/net8.0/ref/oeeDashboardApi.dll
+/home/jordan/projects/oee-system-webapi/oeeDashboardApi/obj/Debug/net8.0/oeeDashboardApi.sourcelink.json
+/home/jordan/projects/oee-system-webapi/oeeDashboardApi/obj/Debug/net8.0/oeeDashb.4E537282.Up2Date
